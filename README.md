@@ -1,7 +1,3 @@
-# README-Generator
-This is a small console application that will generate a README.md file based on given user information
-
-
 ## User Story
 ``````
 AS A developer
@@ -25,9 +21,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ``````
 
-## Check out a demo
+## Video
 
-https://drive.google.com/file/d/1x9BsnFwVauNf9PleU1mP64B91HCYw3af/view?usp=sharing
 
 ## Instructions
 
